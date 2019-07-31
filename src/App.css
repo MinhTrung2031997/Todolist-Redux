@@ -1,0 +1,50 @@
+.mt-5 {
+    margin-top: 15px;
+}
+
+.ml-5 {
+    margin-left: 5px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.fas.mr-5 {
+    margin-right: 5px;
+}
+
+.pull-right:hover {
+    color: red;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+
+#id {
+    font-family: 'Roboto', sans-serif;
+}
+
+.fas.sort {
+    font-size: 15px;
+}
+
+table,
+th,
+td {
+    text-align: center;
+}
+
+.sort_selected::after {
+    content: '\f00c';
+    font-family: fontawesome;
+    font-weight: normal;
+    font-style: normal;
+    margin: 0px 0px 0px 10px;
+    display: inline-block;
+}
